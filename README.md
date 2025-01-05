@@ -1,6 +1,6 @@
-# Time Series Analysis: Bitcoin Price Prediction and Airline Passenger Traffic Forecasting
+# Time Series Analysis
 
-This repository contains two projects demonstrating time series analysis using the Box-Jenkins methodology. The first project predicts Bitcoin prices (non-seasonal data), and the second forecasts airline passenger traffic (seasonal data). Both projects use robust preprocessing, modeling, and forecasting techniques.
+This repository contains two projects demonstrating time series analysis using the Box-Jenkins methodology. The first project predicts Bitcoin prices (non-seasonal data), and the second forecasts airline passenger traffic (seasonal data). 
 
 ---
 
